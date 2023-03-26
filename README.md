@@ -10,7 +10,7 @@ For more details, please see our paper:
 
 # Usage
  
-1. First install the dependencies listed above.
+1. First install the dependencies listed below.
 
 2. Clone the `KmdPlus` github repository:
 ```bash
